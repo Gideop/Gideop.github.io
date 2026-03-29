@@ -313,10 +313,29 @@ Tel: 850-304-3031
 
   <div style="display:flex; align-items:flex-start; margin-bottom:0.5em;">
     <div style="width:110px; flex:0 0 110px;">
+      APDP
     </div>
     <div style="flex:1;">
-      APDP<br>
       Engineering and Technical Management, Practitioner (formerly SPRDE Level-III)
+    </div>
+  </div>
+</div>
+
+<div style="margin-top:1.2em;">
+  <div style="display:flex; align-items:flex-start; margin-bottom:0.35em;">
+    <div style="width:110px; flex:0 0 110px;">
+      <div style="width:96px; height:10px; background:#000; margin-top:0.45em;"></div>
+    </div>
+    <div style="flex:1; font-weight:bold;">
+      Security Clearance
+    </div>
+  </div>
+
+  <div style="display:flex; align-items:flex-start; margin-bottom:0.5em;">
+    <div style="width:110px; flex:0 0 110px;">
+    </div>
+    <div style="flex:1;">
+      TS/SCI, T5R, 25 Aug 2021; AFCAF 9 Sep 2021
     </div>
   </div>
 </div>
