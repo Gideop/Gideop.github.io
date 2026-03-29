@@ -22,14 +22,14 @@ Tel: 850-304-3031
 
 <table style="width:100%; border-collapse:collapse; border:none;">
 <tr>
-<td style="width:1.5%; background:#000;"></td>
-<td style="width:20%; vertical-align:top; padding-left:0.5em;"><strong>Education</strong></td>
+<td style="width:8%; background:#000;"></td>
+<td style="width:18%; vertical-align:top; padding-left:0.5em;"><strong>Education</strong></td>
 <td></td>
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>In Progress</strong></td>
 <td></td>
-<td><strong>In Progress</strong></td>
 <td>
 Ph.D., Electrical Engineering<br>
 University of Florida, Gainesville, FL<br>
@@ -38,8 +38,8 @@ GPA: 3.92
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>2014</strong></td>
 <td></td>
-<td><strong>2014</strong></td>
 <td>
 M.S., Electrical Engineering<br>
 University of Florida, Gainesville, FL<br>
@@ -48,8 +48,8 @@ GPA: 3.90
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>1997</strong></td>
 <td></td>
-<td><strong>1997</strong></td>
 <td>
 B.S., Electrical Engineering<br>
 University of Florida, Gainesville, FL<br>
@@ -60,45 +60,50 @@ GPA: 3.49
 
 <table style="width:100%; border-collapse:collapse; border:none; margin-top:1em;">
 <tr>
-<td style="width:1.5%; background:#000;"></td>
-<td style="width:4%;"></td>
-<td><strong>Research &amp; Technical Focus</strong></td>
+<td style="width:8%; background:#000;"></td>
+<td style="width:18%; vertical-align:top; padding-left:0.5em;"><strong>Research &amp; Technical Focus</strong></td>
+<td></td>
 </tr>
 
 <tr>
-<td></td><td style="text-align:center;">&bull;</td>
+<td style="vertical-align:top; text-align:center;">&bull;</td>
+<td></td>
 <td>Hardware security and trust in microelectronic systems</td>
 </tr>
 <tr>
-<td></td><td style="text-align:center;">&bull;</td>
+<td style="vertical-align:top; text-align:center;">&bull;</td>
+<td></td>
 <td>Side-channel analysis (power and electromagnetic) and countermeasure evaluation</td>
 </tr>
 <tr>
-<td></td><td style="text-align:center;">&bull;</td>
+<td style="vertical-align:top; text-align:center;">&bull;</td>
+<td></td>
 <td>Secure microelectronics packaging and anti-tamper concepts</td>
 </tr>
 <tr>
-<td></td><td style="text-align:center;">&bull;</td>
+<td style="vertical-align:top; text-align:center;">&bull;</td>
+<td></td>
 <td>Measurement-driven security assessment methodologies</td>
 </tr>
 <tr>
-<td></td><td style="text-align:center;">&bull;</td>
+<td style="vertical-align:top; text-align:center;">&bull;</td>
+<td></td>
 <td>Intersection of hardware assurance, physical security, and cybersecurity</td>
 </tr>
 </table>
 
 <table style="width:100%; border-collapse:collapse; border:none; margin-top:1em;">
 <tr>
-<td style="width:1.5%; background:#000;"></td>
-<td style="width:20%; vertical-align:top; padding-left:0.5em;"><strong>Experience</strong></td>
+<td style="width:8%; background:#000;"></td>
+<td style="width:18%; vertical-align:top; padding-left:0.5em;"><strong>Experience</strong></td>
 <td>
 Over 25 years of experience in industry and Government technology planning, requirements analysis, specification development, process development, tool development, circuit design, and test: 2+ years in various Lead Engineer capacities within EBX; 4 years as Lead Engineer for the LMC contract on Long Range Stand Off (LRSO), a $900M ACAT 1D program; 7+ years of experience in weapon system development, improvement, and modernization on Small Diameter Bomb, Increment II (SDB II), an ACAT 1D program; and 12 years of experience semi-conductor design, design-for-test (DFT), evaluation, and characterization.
 </td>
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Mar 2022 -<br>Present</strong></td>
 <td></td>
-<td><strong>Mar 2022 -<br>Present</strong></td>
 <td>
 <strong>Lead Engineer</strong><br>
 Future Hypersonics Study, AFLCMC/EBX<br>
@@ -108,8 +113,8 @@ The Future Hypersonics Study is focused on various high-priority studies to help
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Aug 2021 -<br>Mar 2022</strong></td>
 <td></td>
-<td><strong>Aug 2021 -<br>Mar 2022</strong></td>
 <td>
 <strong>Development IPT Lead Engineer</strong><br>
 Stand-in Attack Weapon (SiAW), AFLCMC/EBX<br>
@@ -119,8 +124,8 @@ Led the development of an Agile Systems Engineering strategy that created a spec
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Jun 2020 -<br>Aug 2021</strong></td>
 <td></td>
-<td><strong>Jun 2020 -<br>Aug 2021</strong></td>
 <td>
 <strong>Nuclear Hardness Assurance Lead Engineer</strong><br>
 Long Range Stand Off Weapon System (LRSO), AFNWC/NDBD<br>
@@ -130,8 +135,8 @@ Engineering Authority for the Nuclear Hardness Assurance of the LRSO weapon syst
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Aug 2017 -<br>Jun 2020</strong></td>
 <td></td>
-<td><strong>Aug 2017 -<br>Jun 2020</strong></td>
 <td>
 <strong>Government Lead Engineer for Lockheed Martin TMRR Contract</strong><br>
 Long Range Stand Off Weapon System (LRSO), AFNWC/NDBD<br>
@@ -141,8 +146,8 @@ Government Lead Engineer for $900M Lockheed Martin contract for the development 
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Nov 2015 -<br>Aug 2017</strong></td>
 <td></td>
-<td><strong>Nov 2015 -<br>Aug 2017</strong></td>
 <td>
 <strong>iECP6 Lead Engineer</strong><br>
 Small Diameter Bomb Increment II (SDB II), AFLCMC/EBMS<br>
@@ -152,8 +157,8 @@ Lead Engineer for $250M integrated Engineering Change Proposal (iECP6) to the SD
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Apr 2014 -<br>Nov 2015</strong></td>
 <td></td>
-<td><strong>Apr 2014 -<br>Nov 2015</strong></td>
 <td>
 <strong>Electronics Lead</strong><br>
 Small Diameter Bomb Increment II (SDB II), AFLCMC/EBMS<br>
@@ -163,8 +168,8 @@ Managed supplier transition to the baseline SDB II seeker electronics and avioni
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Feb 2010 -<br>Apr 2014</strong></td>
 <td></td>
-<td><strong>Feb 2010 -<br>Apr 2014</strong></td>
 <td>
 <strong>System Performance Engineer</strong><br>
 Small Diameter Bomb Increment II (SDB II), AFLCMC/EMBS<br>
@@ -174,8 +179,8 @@ Managed the integration of a spread configuration of the weapon seeker electroni
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Feb 2009 -<br>Feb 2010</strong></td>
 <td></td>
-<td><strong>Feb 2009 -<br>Feb 2010</strong></td>
 <td>
 <strong>Digital Design Lead Engineer</strong><br>
 Texas Instruments<br>
@@ -185,8 +190,8 @@ Digital Design Lead Engineer for a highly integrated mixed-signal ASIC for Intel
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Mar 2007 -<br>Feb 2009</strong></td>
 <td></td>
-<td><strong>Mar 2007 -<br>Feb 2009</strong></td>
 <td>
 <strong>Design For Test (DFT) Lead Engineer</strong><br>
 Texas Instruments<br>
@@ -196,8 +201,8 @@ DFT Lead Engineer for mixed-signal ASICs for NEC's cellular development business
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Oct 2002 -<br>Mar 2007</strong></td>
 <td></td>
-<td><strong>Oct 2002 -<br>Mar 2007</strong></td>
 <td>
 <strong>Digital Design Engineer</strong><br>
 Texas Instruments<br>
@@ -207,8 +212,8 @@ Assessed customer requirements and conducted requirements decomposition and func
 </tr>
 
 <tr>
+<td style="vertical-align:top;"><strong>Feb 1998 -<br>Oct 2002</strong></td>
 <td></td>
-<td><strong>Feb 1998 -<br>Oct 2002</strong></td>
 <td>
 <strong>Applications and Systems Engineer</strong><br>
 Texas Instruments<br>
@@ -220,8 +225,8 @@ Conceptualized and designed semiconductor support equipment (evaluation boards, 
 
 <table style="width:100%; border-collapse:collapse; border:none; margin-top:1em;">
 <tr>
-<td style="width:1.5%; background:#000;"></td>
-<td style="width:20%; padding-left:0.5em;"><strong>Patents</strong></td>
+<td style="width:8%; background:#000;"></td>
+<td style="width:18%; vertical-align:top; padding-left:0.5em;"><strong>Patents</strong></td>
 <td>
 U.S. Patent 7,739,435, "System and Method for Enhancing I2C Bus Data Rate," issued June 15, 2010.
 </td>
@@ -230,8 +235,8 @@ U.S. Patent 7,739,435, "System and Method for Enhancing I2C Bus Data Rate," issu
 
 <table style="width:100%; border-collapse:collapse; border:none; margin-top:1em;">
 <tr>
-<td style="width:1.5%; background:#000;"></td>
-<td style="width:20%; padding-left:0.5em;"><strong>Certifications</strong></td>
+<td style="width:8%; background:#000;"></td>
+<td style="width:18%; vertical-align:top; padding-left:0.5em;"><strong>Certifications</strong></td>
 <td>
 APDP<br>
 Engineering and Technical Management, Practitioner (formerly SPRDE Level-III)
